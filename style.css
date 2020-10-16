@@ -1,0 +1,159 @@
+h1 {
+  color: #ffffff;
+}
+a:link {
+  color: #ffffff;
+}
+a:visited {
+  color: rgb(194, 247, 247);
+}
+.header {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+}
+.hm1 {
+  margin: 25px;
+}
+.hm2 {
+  margin: 25px;
+}
+body {
+  margin: 0px;
+  background-color: blanchedalmond;
+}
+.text {
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 25px;
+  width: 3000px;
+  font-family: fantasy;
+}
+.Beginner {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.beginnerHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.BeginnerText {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.Intermediate {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.intermediateHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.IntermediateText {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.hardHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.Hard {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.HardText {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.chooser {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item1:hover {
+  transform: scale(1.1);
+}
+.item2:hover {
+  transform: scale(1.1);
+}
+.item3:hover {
+  transform: scale(1.1);
+}
+.item4:hover {
+  transform: scale(1.1);
+}
+.item5:hover {
+  transform: scale(1.1);
+}
+
+.aboutHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.aboutME {
+  display: flex;
+  justify-content: center;
+}
+.aboutmE {
+  display: flex;
+  justify-content: center;
+  font-family: fantasy;
+  font-size: 25px;
+}
+.AboutTEXT1 {
+  display: flex;
+  justify-content: center;
+  font-family: fantasy;
+}
+.hobbies {
+  display: flex;
+  justify-content: space-around;
+}
+.hobbiesText {
+  display: flex;
+  justify-content: space-around;
+  font-family: fantasy;
+}
+.FollowUsHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.FollowUS {
+  display: flex;
+  justify-content: center;
+  font-family: fantasy;
+  font-size: 50px;
+  margin-top: 500px;
+}
